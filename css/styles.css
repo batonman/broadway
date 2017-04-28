@@ -28,6 +28,7 @@ p {
     font-size: 14px;
     margin: 10px;
 }
+
 li {
     list-style: none;
 }
@@ -36,7 +37,7 @@ li {
     font-size: 11px;
     color: white;
     text-align: left;
-    width: 400px;    
+    width: 400px;
     text-decoration: none;
 }
 
